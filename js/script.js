@@ -7,13 +7,13 @@ project 1 - A Random Quote Generator
 const quotes = [
   {
     quote: "It is better to remain silent and be thought a fool, than to open your mouth and remove all doubt.",
-    source: "Abraham Lincoln, Mark Twain",
+    source: "Abraham Lincoln, Mark Twain"
   },
   {
     quote: "The only thing we have to fear is fear itself.",
     source: "Franklin D. Roosevelt",
     citation: "Inaugural Address",
-    year: 1933,
+    year: 1933
   },
   {
     quote: "You must be the change you wish to see in the world.",
