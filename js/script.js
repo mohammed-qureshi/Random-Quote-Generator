@@ -34,7 +34,6 @@ const quotes = [
     source: "Billy Connolly",
     tag: "humor"
   }
-
 ]
 
 // getRandomQuote Function
